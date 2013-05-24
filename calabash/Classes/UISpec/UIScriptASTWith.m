@@ -92,7 +92,11 @@
         {
             type = LPWebQueryTypeCSS;
         }
-        return [LPWebQuery evaluateQuery:(NSString*)self.objectValue ofType:type inWebView:webView];                
+        else if ([[self selectorName] isEqualToString:@"iframe"])
+        {
+            type = LPWebQueryTypeIFRAME;
+        }
+        return [LPWebQuery evaluateQuery:(NSString*)self.objectValue ofType:type inWebView:webView];
     } else {
         NSLog(@"Attempting to look for non string in web view");
         return [NSMutableArray array];

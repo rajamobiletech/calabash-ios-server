@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>720116CB-51BF-4A59-83CE-0546B61023B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>calabash</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>88DDCDB7-92E2-4E19-B699-120ED895669D</key>
+		<string>https://github.com/rajamobiletech/calabash-ios-server.git</string>
+		<key>CD78230E-D107-4DBD-A2F4-C23A8D9E472E</key>
+		<string>https://github.com/calabash/Frank.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>calabash.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>88DDCDB7-92E2-4E19-B699-120ED895669D</key>
+		<string>../..</string>
+		<key>CD78230E-D107-4DBD-A2F4-C23A8D9E472E</key>
+		<string>../../lib/frank</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rajamobiletech/calabash-ios-server.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>88DDCDB7-92E2-4E19-B699-120ED895669D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>88DDCDB7-92E2-4E19-B699-120ED895669D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>calabash-ios-server</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD78230E-D107-4DBD-A2F4-C23A8D9E472E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>frank</string>
+		</dict>
+	</array>
+</dict>
+</plist>

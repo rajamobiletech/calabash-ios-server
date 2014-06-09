@@ -1,7 +1,7 @@
 export PATH=/usr/local/bin:$PATH
 d::Spec.new do |s|
   s.name     = 'Calabash'
-  s.version  = '0.9.126'
+  s.version  = '0.9.168'
   s.license       = {
     :type => 'Eclipse Public License 1.0',
     :text => 'Calabash-ios Copyright (2012) Karl Krukow. All rights reserved.
